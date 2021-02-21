@@ -1,6 +1,10 @@
 # Blockpacks
 Github repo for Chisel Decor blockpacks.
 
+## Blockpack Download Links
+
+* [Classic](https://github.com/KnowYourKnot/Blockpacks/releases/download/v1.0.0/classic.zip)
+
 ## How to install
 1. Run Minecraft with [Chisel Decor]() installed to generate the necessary config folders and files.
 2. Download the folder for the desired blockpack.
