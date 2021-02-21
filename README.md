@@ -47,3 +47,5 @@ and any textures contained in the directories
 * ` classic\textures\blocks\default\wool_carpet`
 
 with names which include the word `llama`, are created by Drullkus and are licenced under [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+4. Edit the `config/chiseldecor/config.json` file. The entry `block_packs` should be a comma separated list of the names of the blockpacks you want to load.
+5. Open Minecraft. Your blockpacks should have been loaded!
