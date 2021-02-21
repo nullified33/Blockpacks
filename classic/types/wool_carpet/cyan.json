@@ -1,0 +1,24 @@
+{
+  "name": "wool_carpet/cyan",
+  "settings": {
+    "imitate": "minecraft:white_carpet"
+  },
+  "items_to_include": [
+    "minecraft:cyan_carpet"
+  ],
+  "tags_to_include": [
+    "c:cyan_carpet"
+  ],
+  "variants": {
+    "new": [
+      {
+        "names": [
+          "cyan",
+          "cyan-llama"
+        ],
+        "model": "block/carpet",
+        "transparent": false
+      }
+    ]
+  }
+}

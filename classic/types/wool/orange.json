@@ -1,0 +1,23 @@
+{
+  "name": "wool/orange",
+  "settings": {
+    "imitate": "minecraft:white_wool"
+  },
+  "items_to_include": [
+    "minecraft:orange_wool"
+  ],
+  "tags_to_include": [
+    "c:orange_wool"
+  ],
+  "variants": {
+    "new": [
+      {
+        "names": [
+          "orange",
+          "orange-llama"
+        ],
+        "transparent": false
+      }
+    ]
+  }
+}

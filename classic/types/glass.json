@@ -1,0 +1,39 @@
+{
+  "name": "glass",
+  "settings": {
+    "imitate": "minecraft:glass"
+  },
+  "items_to_include": [
+    "minecraft:glass"
+  ],
+  "tags_to_include": [
+    "c:glass"
+  ],
+  "variants": {
+    "new": [
+      {
+        "names": [
+          "terrain-glassbubble",
+          "chinese",
+          "japanese",
+          "terrain-glassdungeon",
+          "terrain-glasslight",
+          "terrain-glassnoborder",
+          "terrain-glass-ornatesteel",
+          "terrain-glass-screen",
+          "terrain-glassshale",
+          "terrain-glass-steelframe",
+          "terrain-glassstone",
+          "terrain-glassstreak",
+          "terrain-glass-thickgrid",
+          "terrain-glass-thingrid",
+          "a1-glasswindow-ironfencemodern",
+          "chrono",
+          "chinese2",
+          "japanese2"
+        ],
+        "transparent": true
+      }
+    ]
+  }
+}

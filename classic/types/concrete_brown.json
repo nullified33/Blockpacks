@@ -1,0 +1,16 @@
+{
+  "name": "concrete_brown",
+  "settings": {
+    "imitate": "minecraft:stone"
+  },
+  "items_to_include": [
+    "brown_concrete"
+  ],
+  "tags_to_include": [
+    "c:concrete_brown"
+  ],
+  "variants": {
+    "parent": "stone",
+    "new": []
+  }
+}

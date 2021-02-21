@@ -1,0 +1,55 @@
+{
+  "name": "glass_stained/red",
+  "settings": {
+    "imitate": "minecraft:glass"
+  },
+  "items_to_include": [
+    "red_stained_glass"
+  ],
+  "tags_to_include": [
+    "c:glass_red"
+  ],
+  "variants": {
+    "new": [
+      {
+        "names": [
+          "brick",
+          "panel",
+          "rough",
+          "streaks"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "red-bubble"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "red-forestry"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "red-panel"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "red-panel-fancy"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "red-transparent"
+        ],
+        "transparent": true
+      }
+    ]
+  }
+}

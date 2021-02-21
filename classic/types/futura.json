@@ -1,0 +1,33 @@
+{
+  "name": "futura",
+  "settings": {
+    "imitate": "minecraft:iron_block"
+  },
+  "variants": {
+    "new": [
+      {
+        "names": [
+          "controller",
+          "controller_purple",
+          "uber_wavy"
+        ],
+        "model": "three_layer_topshaded",
+        "transparent": false
+      },
+      {
+        "names": [
+          "screen_cyan",
+          "screen_metallic"
+        ],
+        "transparent": false
+      },
+      {
+        "names": [
+          "rainbow_wave"
+        ],
+        "model": "two_layer_topshaded",
+        "transparent": false
+      }
+    ]
+  }
+}

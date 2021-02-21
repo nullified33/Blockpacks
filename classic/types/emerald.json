@@ -1,0 +1,35 @@
+{
+  "name": "emerald",
+  "settings": {
+    "imitate": "minecraft:emerald_block"
+  },
+  "items_to_include": [
+    "minecraft:emerald_block"
+  ],
+  "tags_to_include": [
+    "c:emerald_blocks"
+  ],
+  "variants": {
+    "new": [
+      {
+        "names": [
+          "panel",
+          "panelclassic",
+          "smooth",
+          "chunk",
+          "goldborder",
+          "zelda",
+          "cell",
+          "cellbismuth",
+          "four",
+          "fourornate",
+          "ornate",
+          "masonryemerald",
+          "emeraldcircle",
+          "emeraldprismatic"
+        ],
+        "transparent": false
+      }
+    ]
+  }
+}

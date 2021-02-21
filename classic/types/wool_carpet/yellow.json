@@ -1,0 +1,24 @@
+{
+  "name": "wool_carpet/yellow",
+  "settings": {
+    "imitate": "minecraft:white_carpet"
+  },
+  "items_to_include": [
+    "minecraft:yellow_carpet"
+  ],
+  "tags_to_include": [
+    "c:yellow_carpet"
+  ],
+  "variants": {
+    "new": [
+      {
+        "names": [
+          "yellow",
+          "yellow-llama"
+        ],
+        "model": "block/carpet",
+        "transparent": false
+      }
+    ]
+  }
+}

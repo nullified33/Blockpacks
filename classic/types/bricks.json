@@ -1,0 +1,16 @@
+{
+  "name": "bricks",
+  "settings": {
+    "imitate": "minecraft:stone"
+  },
+  "items_to_include": [
+    "minecraft:bricks"
+  ],
+  "tags_to_include": [
+    "c:clay_bricks"
+  ],
+  "variants": {
+    "parent": "stone",
+    "new": []
+  }
+}

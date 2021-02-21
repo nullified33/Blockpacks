@@ -1,0 +1,33 @@
+{
+  "name": "sandstone-scribbles",
+  "settings": {
+    "imitate": "minecraft:sandstone"
+  },
+  "chisel_group": "classic/sandstoneyellow",
+  "variants": {
+    "new": [
+      {
+        "names": [
+          "scribbles-0",
+          "scribbles-1",
+          "scribbles-2",
+          "scribbles-3",
+          "scribbles-4",
+          "scribbles-5",
+          "scribbles-6",
+          "scribbles-7",
+          "scribbles-8",
+          "scribbles-9",
+          "scribbles-10",
+          "scribbles-11",
+          "scribbles-12",
+          "scribbles-13",
+          "scribbles-14",
+          "scribbles-15"
+        ],
+        "model": "block/cube_column",
+        "transparent": false
+      }
+    ]
+  }
+}

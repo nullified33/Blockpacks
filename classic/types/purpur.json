@@ -1,0 +1,17 @@
+{
+  "name": "purpur",
+  "settings": {
+    "imitate": "minecraft:stone"
+  },
+  "items_to_include": [
+    "minecraft:purpur_block",
+    "minecraft:purpur_pillar"
+  ],
+  "tags_to_include": [
+    "c:purpur_blocks"
+  ],
+  "variants": {
+    "parent": "stone",
+    "new": []
+  }
+}

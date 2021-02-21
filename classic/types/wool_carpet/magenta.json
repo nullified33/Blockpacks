@@ -1,0 +1,24 @@
+{
+  "name": "wool_carpet/magenta",
+  "settings": {
+    "imitate": "minecraft:white_carpet"
+  },
+  "items_to_include": [
+    "minecraft:magenta_carpet"
+  ],
+  "tags_to_include": [
+    "c:magenta_carpet"
+  ],
+  "variants": {
+    "new": [
+      {
+        "names": [
+          "magenta",
+          "magenta-llama"
+        ],
+        "model": "block/carpet",
+        "transparent": false
+      }
+    ]
+  }
+}

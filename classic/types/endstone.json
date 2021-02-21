@@ -1,0 +1,16 @@
+{
+  "name": "endstone",
+  "settings": {
+    "imitate": "minecraft:stone"
+  },
+  "items_to_include": [
+    "minecraft:end_stone"
+  ],
+  "tags_to_include": [
+    "c:end_stones"
+  ],
+  "variants": {
+    "parent": "stone",
+    "new": []
+  }
+}

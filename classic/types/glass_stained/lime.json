@@ -1,0 +1,55 @@
+{
+  "name": "glass_stained/lime",
+  "settings": {
+    "imitate": "minecraft:glass"
+  },
+  "items_to_include": [
+    "lime_stained_glass"
+  ],
+  "tags_to_include": [
+    "c:glass_lime"
+  ],
+  "variants": {
+    "new": [
+      {
+        "names": [
+          "brick",
+          "panel",
+          "rough",
+          "streaks"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "lime-bubble"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "lime-forestry"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "lime-panel"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "lime-panel-fancy"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "lime-transparent"
+        ],
+        "transparent": true
+      }
+    ]
+  }
+}

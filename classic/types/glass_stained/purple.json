@@ -1,0 +1,55 @@
+{
+  "name": "glass_stained/purple",
+  "settings": {
+    "imitate": "minecraft:glass"
+  },
+  "items_to_include": [
+    "purple_stained_glass"
+  ],
+  "tags_to_include": [
+    "c:glass_purple"
+  ],
+  "variants": {
+    "new": [
+      {
+        "names": [
+          "brick",
+          "panel",
+          "rough",
+          "streaks"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "purple-bubble"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "purple-forestry"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "purple-panel"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "purple-panel-fancy"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "purple-transparent"
+        ],
+        "transparent": true
+      }
+    ]
+  }
+}

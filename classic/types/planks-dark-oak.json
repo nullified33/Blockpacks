@@ -1,0 +1,16 @@
+{
+  "name": "planks-dark-oak",
+  "settings": {
+    "imitate": "minecraft:oak_planks"
+  },
+  "items_to_include": [
+    "minecraft:dark_oak_planks"
+  ],
+  "tags_to_include": [
+    "c:dark_oak_planks"
+  ],
+  "variants": {
+    "parent": "planks",
+    "new": []
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "wool_carpet/red",
+  "settings": {
+    "imitate": "minecraft:white_carpet"
+  },
+  "items_to_include": [
+    "minecraft:red_carpet"
+  ],
+  "tags_to_include": [
+    "c:red_carpet"
+  ],
+  "variants": {
+    "new": [
+      {
+        "names": [
+          "red",
+          "red-llama"
+        ],
+        "model": "block/carpet",
+        "transparent": false
+      }
+    ]
+  }
+}

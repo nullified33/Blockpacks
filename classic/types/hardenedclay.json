@@ -1,0 +1,16 @@
+{
+  "name": "hardenedclay",
+  "settings": {
+    "imitate": "minecraft:stone"
+  },
+  "items_to_include": [
+    "minecraft:terracotta"
+  ],
+  "tags_to_include": [
+    "c:terracotta_blocks_plain"
+  ],
+  "variants": {
+    "parent": "stone",
+    "new": []
+  }
+}

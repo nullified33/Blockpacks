@@ -1,0 +1,50 @@
+{
+  "name": "ice",
+  "settings": {
+    "imitate": "minecraft:ice"
+  },
+  "items_to_include": [
+    "minecraft:ice"
+  ],
+  "tags_to_include": [
+    "c:ice_default"
+  ],
+  "variants": {
+    "new": [
+      {
+        "names": [
+          "cracked",
+          "bricks-soft",
+          "bricks-cracked",
+          "bricks-encased",
+          "braid",
+          "array",
+          "tiles-large",
+          "tiles-small",
+          "chaotic-medium",
+          "chaotic-small",
+          "dent",
+          "french-1",
+          "french-2",
+          "jellybean",
+          "layers",
+          "mosaic",
+          "ornate",
+          "panel",
+          "road",
+          "slanted",
+          "weaver",
+          "bricks-solid",
+          "bricks-small",
+          "circular",
+          "tiles-medium",
+          "prism",
+          "bricks-chaotic",
+          "cuts",
+          "bricks-triple"
+        ],
+        "transparent": true
+      }
+    ]
+  }
+}

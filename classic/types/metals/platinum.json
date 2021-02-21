@@ -1,0 +1,13 @@
+{
+  "name": "metals/platinum",
+  "settings": {
+    "imitate": "minecraft:iron_block"
+  },
+  "tags_to_include": [
+    "c:platinum_blocks"
+  ],
+  "variants": {
+    "parent": "metal",
+    "new": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "netherbrick",
+  "settings": {
+    "imitate": "minecraft:nether_bricks"
+  },
+  "items_to_include": [
+    "minecraft:nether_bricks",
+    "minecraft:cracked_nether_bricks",
+    "minecraft:chiseled_nether_bricks"
+  ],
+  "tags_to_include": [
+    "c:nether_bricks"
+  ],
+  "variants": {
+    "new": [
+      {
+        "names": [
+          "a1-netherbrick-brinstar",
+          "a1-netherbrick-classicspatter",
+          "a1-netherbrick-guts",
+          "a1-netherbrick-gutsdark",
+          "a1-netherbrick-gutssmall",
+          "a1-netherbrick-lavabrinstar",
+          "a1-netherbrick-lavabrown",
+          "a1-netherbrick-lavaobsidian",
+          "a1-netherbrick-lavastonedark",
+          "a1-netherbrick-meat",
+          "a1-netherbrick-meatred",
+          "a1-netherbrick-meatredsmall",
+          "a1-netherbrick-meatsmall",
+          "a1-netherbrick-red",
+          "a1-netherbrick-redsmall",
+          "netherfancybricks"
+        ],
+        "transparent": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "name": "glass_stained/brown",
+  "settings": {
+    "imitate": "minecraft:glass"
+  },
+  "items_to_include": [
+    "brown_stained_glass"
+  ],
+  "tags_to_include": [
+    "c:glass_brown"
+  ],
+  "variants": {
+    "new": [
+      {
+        "names": [
+          "brick",
+          "panel",
+          "rough",
+          "streaks"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "brown-bubble"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "brown-forestry"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "brown-panel"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "brown-panel-fancy"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "brown-transparent"
+        ],
+        "transparent": true
+      }
+    ]
+  }
+}

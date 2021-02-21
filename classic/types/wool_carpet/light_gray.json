@@ -1,0 +1,24 @@
+{
+  "name": "wool_carpet/light_gray",
+  "settings": {
+    "imitate": "minecraft:white_carpet"
+  },
+  "items_to_include": [
+    "minecraft:light_gray_carpet"
+  ],
+  "tags_to_include": [
+    "c:light_gray_carpet"
+  ],
+  "variants": {
+    "new": [
+      {
+        "names": [
+          "light_gray",
+          "light_gray-llama"
+        ],
+        "model": "block/carpet",
+        "transparent": false
+      }
+    ]
+  }
+}

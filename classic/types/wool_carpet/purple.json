@@ -1,0 +1,24 @@
+{
+  "name": "wool_carpet/purple",
+  "settings": {
+    "imitate": "minecraft:white_carpet"
+  },
+  "items_to_include": [
+    "minecraft:purple_carpet"
+  ],
+  "tags_to_include": [
+    "c:purple_carpet"
+  ],
+  "variants": {
+    "new": [
+      {
+        "names": [
+          "purple",
+          "purple-llama"
+        ],
+        "model": "block/carpet",
+        "transparent": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "quartz",
+  "settings": {
+    "imitate": "minecraft:stone"
+  },
+  "items_to_include": [
+    "minecraft:quartz_block",
+    "minecraft:chiseled_quartz_block",
+    "minecraft:quartz_pillar",
+    "minecraft:quartz_bricks"
+  ],
+  "tags_to_include": [
+    "c:quartz_blocks"
+  ],
+  "variants": {
+    "parent": "stone",
+    "new": []
+  }
+}

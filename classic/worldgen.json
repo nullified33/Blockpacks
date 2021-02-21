@@ -1,0 +1,12 @@
+{
+    "world_gen": [
+        {
+            "type": "ore",
+            "block": "chiseldecor:classic/marble/raw"
+        },
+        {
+            "type": "ore",
+            "block": "chiseldecor:classic/limestone/raw"
+        }
+    ]
+}

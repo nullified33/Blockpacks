@@ -1,0 +1,30 @@
+{
+  "name": "lapis",
+  "settings": {
+    "imitate": "minecraft:lapis_block"
+  },
+  "items_to_include": [
+    "minecraft:lapis_block"
+  ],
+  "tags_to_include": [
+    "c:lapis_blocks"
+  ],
+  "variants": {
+    "new": [
+      {
+        "names": [
+          "terrain-lapisblock-chunky",
+          "terrain-lapisblock-panel",
+          "terrain-lapisblock-zelda",
+          "terrain-lapisornate",
+          "terrain-lapistile",
+          "a1-blocklapis-panel",
+          "a1-blocklapis-smooth",
+          "a1-blocklapis-ornatelayer",
+          "masonrylapis"
+        ],
+        "transparent": false
+      }
+    ]
+  }
+}

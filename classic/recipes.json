@@ -1,0 +1,64 @@
+{
+    "recipes": [
+        {
+            "keys": {
+                "S": "minecraft:stone",
+                "I": "minecraft:iron_ingot"
+            },
+            "pattern": [
+                "ISI",
+                "S S",
+                "ISI"
+            ],
+            "result": {
+                "item": "chiseldecor:classic/factory/rust2",
+                "amount": 32
+            }
+        },
+        {
+            "keys": {
+                "S": "minecraft:stone_bricks",
+                "R": "minecraft:redstone"
+            },
+            "pattern": [
+                "SSS",
+                "SRS",
+                "SSS"
+            ],
+            "result": {
+                "item": "chiseldecor:classic/futura/controller",
+                "amount": 8
+            }
+        },
+        {
+            "keys": {
+                "S": "minecraft:stone",
+                "Q": "minecraft:quartz"
+            },
+            "pattern": [
+                "QSQ",
+                "S S",
+                "QSQ"
+            ],
+            "result": {
+                "item": "chiseldecor:classic/laboratory/largewall",
+                "amount": 32
+            }
+        },
+        {
+            "keys": {
+                "S": "minecraft:stone",
+                "I": "minecraft:iron_ingot"
+            },
+            "pattern": [
+                "SSS",
+                "SIS",
+                "SSS"
+            ],
+            "result": {
+                "item": "chiseldecor:classic/tyrian/shining",
+                "amount": 8
+            }
+        }
+    ]
+}

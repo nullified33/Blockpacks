@@ -1,0 +1,35 @@
+{
+  "name": "netherrack",
+  "settings": {
+    "imitate": "minecraft:netherrack"
+  },
+  "items_to_include": [
+    "minecraft:netherrace"
+  ],
+  "tags_to_include": [
+    "c:netherrace"
+  ],
+  "variants": {
+    "new": [
+      {
+        "names": [
+          "a1-netherrack-bloodgravel",
+          "a1-netherrack-bloodrock",
+          "a1-netherrack-bloodrockgrey",
+          "a1-netherrack-brinstar",
+          "a1-netherrack-brinstarshale",
+          "a1-netherrack-classic",
+          "a1-netherrack-classicspatter",
+          "a1-netherrack-guts",
+          "a1-netherrack-gutsdark",
+          "a1-netherrack-meat",
+          "a1-netherrack-meatred",
+          "a1-netherrack-meatrock",
+          "a1-netherrack-red",
+          "a1-netherrack-wells"
+        ],
+        "transparent": false
+      }
+    ]
+  }
+}

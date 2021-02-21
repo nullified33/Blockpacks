@@ -1,0 +1,16 @@
+{
+  "name": "planks-acacia",
+  "settings": {
+    "imitate": "minecraft:oak_planks"
+  },
+  "items_to_include": [
+    "minecraft:acacia_planks"
+  ],
+  "tags_to_include": [
+    "c:acacia_planks"
+  ],
+  "variants": {
+    "parent": "planks",
+    "new": []
+  }
+}

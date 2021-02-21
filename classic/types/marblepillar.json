@@ -1,0 +1,41 @@
+{
+  "name": "marblepillar",
+  "settings": {
+    "imitate": "minecraft:stone"
+  },
+  "chisel_group": "classic/marble",
+  "tags_to_include": [
+    "c:marble"
+  ],
+  "variants": {
+    "new": [
+      {
+        "names": [
+          "convex",
+          "default",
+          "greekdecor",
+          "greekgreek",
+          "greekplain",
+          "pillar",
+          "plaindecor",
+          "plaingreek",
+          "plainplain",
+          "rough",
+          "simple",
+          "widedecor",
+          "widegreek",
+          "wideplain"
+        ],
+        "transparent": false
+      },
+      {
+        "names": [
+          "carved",
+          "ornamental"
+        ],
+        "model": "block/cube_column",
+        "transparent": false
+      }
+    ]
+  }
+}

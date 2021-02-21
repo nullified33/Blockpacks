@@ -1,0 +1,55 @@
+{
+  "name": "glass_stained/green",
+  "settings": {
+    "imitate": "minecraft:glass"
+  },
+  "items_to_include": [
+    "green_stained_glass"
+  ],
+  "tags_to_include": [
+    "c:glass_green"
+  ],
+  "variants": {
+    "new": [
+      {
+        "names": [
+          "brick",
+          "panel",
+          "rough",
+          "streaks"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "green-bubble"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "green-forestry"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "green-panel"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "green-panel-fancy"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "green-transparent"
+        ],
+        "transparent": true
+      }
+    ]
+  }
+}

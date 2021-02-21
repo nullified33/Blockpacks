@@ -1,0 +1,34 @@
+{
+  "name": "tyrian",
+  "settings": {
+    "imitate": "minecraft:iron_block"
+  },
+  "tags_to_include": [
+    "c:tyrian_blocks"
+  ],
+  "variants": {
+    "new": [
+      {
+        "names": [
+          "shining",
+          "tyrian",
+          "chaotic",
+          "softplate",
+          "rust",
+          "elaborate",
+          "routes",
+          "platform",
+          "platetiles",
+          "diagonal",
+          "dent",
+          "blueplating",
+          "black",
+          "black2",
+          "opening",
+          "plate"
+        ],
+        "transparent": false
+      }
+    ]
+  }
+}

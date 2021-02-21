@@ -1,0 +1,23 @@
+{
+  "name": "wool/yellow",
+  "settings": {
+    "imitate": "minecraft:white_wool"
+  },
+  "items_to_include": [
+    "minecraft:yellow_wool"
+  ],
+  "tags_to_include": [
+    "c:yellow_wool"
+  ],
+  "variants": {
+    "new": [
+      {
+        "names": [
+          "yellow",
+          "yellow-llama"
+        ],
+        "transparent": false
+      }
+    ]
+  }
+}

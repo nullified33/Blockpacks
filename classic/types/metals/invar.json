@@ -1,0 +1,13 @@
+{
+  "name": "metals/invar",
+  "settings": {
+    "imitate": "minecraft:iron_block"
+  },
+  "tags_to_include": [
+    "c:invar_blocks"
+  ],
+  "variants": {
+    "parent": "metal",
+    "new": []
+  }
+}

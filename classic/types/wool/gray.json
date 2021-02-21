@@ -1,0 +1,23 @@
+{
+  "name": "wool/gray",
+  "settings": {
+    "imitate": "minecraft:white_wool"
+  },
+  "items_to_include": [
+    "minecraft:gray_wool"
+  ],
+  "tags_to_include": [
+    "c:gray_wool"
+  ],
+  "variants": {
+    "new": [
+      {
+        "names": [
+          "gray",
+          "gray-llama"
+        ],
+        "transparent": false
+      }
+    ]
+  }
+}

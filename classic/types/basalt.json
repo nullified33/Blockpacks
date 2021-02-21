@@ -1,0 +1,24 @@
+{
+  "name": "basalt",
+  "settings": {
+    "imitate": "minecraft:stone"
+  },
+  "items_to_include": [
+    "minecraft:basalt",
+    "minecraft:polished_basalt"
+  ],
+  "tags_to_include": [
+    "c:basalt"
+  ],
+  "variants": {
+    "parent": "stone",
+    "new": [
+      {
+        "names": [
+          "raw"
+        ],
+        "transparent": false
+      }
+    ]
+  }
+}

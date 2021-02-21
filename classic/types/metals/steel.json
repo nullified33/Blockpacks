@@ -1,0 +1,13 @@
+{
+  "name": "metals/steel",
+  "settings": {
+    "imitate": "minecraft:iron_block"
+  },
+  "tags_to_include": [
+    "c:steel_blocks"
+  ],
+  "variants": {
+    "parent": "metal",
+    "new": []
+  }
+}

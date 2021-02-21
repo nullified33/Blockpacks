@@ -1,0 +1,23 @@
+{
+  "name": "wool/black",
+  "settings": {
+    "imitate": "minecraft:white_wool"
+  },
+  "items_to_include": [
+    "minecraft:black_wool"
+  ],
+  "tags_to_include": [
+    "c:black_wool"
+  ],
+  "variants": {
+    "new": [
+      {
+        "names": [
+          "black",
+          "black-llama"
+        ],
+        "transparent": false
+      }
+    ]
+  }
+}

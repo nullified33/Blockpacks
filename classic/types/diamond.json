@@ -1,0 +1,39 @@
+{
+  "name": "diamond",
+  "settings": {
+    "imitate": "minecraft:diamond_block"
+  },
+  "items_to_include": [
+    "minecraft:diamond_block"
+  ],
+  "tags_to_include": [
+    "c:diamond_blocks"
+  ],
+  "variants": {
+    "new": [
+      {
+        "names": [
+          "terrain-diamond-cells",
+          "terrain-diamond-space",
+          "terrain-diamond-spaceblack",
+          "terrain-diamond-bismuth",
+          "terrain-diamond-crushed",
+          "terrain-diamond-four",
+          "terrain-diamond-fourornate",
+          "terrain-diamond-zelda",
+          "terrain-diamond-ornatelayer"
+        ],
+        "transparent": false
+      },
+      {
+        "names": [
+          "terrain-diamond-embossed",
+          "terrain-diamond-gem",
+          "terrain-diamond-simple"
+        ],
+        "model": "block/cube_bottom_top",
+        "transparent": false
+      }
+    ]
+  }
+}

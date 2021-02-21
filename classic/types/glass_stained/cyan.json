@@ -1,0 +1,55 @@
+{
+  "name": "glass_stained/cyan",
+  "settings": {
+    "imitate": "minecraft:glass"
+  },
+  "items_to_include": [
+    "cyan_stained_glass"
+  ],
+  "tags_to_include": [
+    "c:glass_cyan"
+  ],
+  "variants": {
+    "new": [
+      {
+        "names": [
+          "brick",
+          "panel",
+          "rough",
+          "streaks"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "cyan-bubble"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "cyan-forestry"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "cyan-panel"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "cyan-panel-fancy"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "cyan-transparent"
+        ],
+        "transparent": true
+      }
+    ]
+  }
+}

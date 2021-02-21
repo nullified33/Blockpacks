@@ -1,0 +1,16 @@
+{
+  "name": "concrete_cyan",
+  "settings": {
+    "imitate": "minecraft:stone"
+  },
+  "items_to_include": [
+    "cyan_concrete"
+  ],
+  "tags_to_include": [
+    "c:concrete_cyan"
+  ],
+  "variants": {
+    "parent": "stone",
+    "new": []
+  }
+}

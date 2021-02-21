@@ -1,0 +1,23 @@
+{
+  "name": "wool/blue",
+  "settings": {
+    "imitate": "minecraft:white_wool"
+  },
+  "items_to_include": [
+    "minecraft:blue_wool"
+  ],
+  "tags_to_include": [
+    "c:blue_wool"
+  ],
+  "variants": {
+    "new": [
+      {
+        "names": [
+          "blue",
+          "blue-llama"
+        ],
+        "transparent": false
+      }
+    ]
+  }
+}

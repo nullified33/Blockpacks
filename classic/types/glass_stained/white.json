@@ -1,0 +1,55 @@
+{
+  "name": "glass_stained/white",
+  "settings": {
+    "imitate": "minecraft:glass"
+  },
+  "items_to_include": [
+    "white_stained_glass"
+  ],
+  "tags_to_include": [
+    "c:glass_white"
+  ],
+  "variants": {
+    "new": [
+      {
+        "names": [
+          "brick",
+          "panel",
+          "rough",
+          "streaks"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "white-bubble"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "white-forestry"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "white-panel"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "white-panel-fancy"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "white-transparent"
+        ],
+        "transparent": true
+      }
+    ]
+  }
+}

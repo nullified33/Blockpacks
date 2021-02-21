@@ -1,0 +1,13 @@
+{
+  "name": "metals/lead",
+  "settings": {
+    "imitate": "minecraft:iron_block"
+  },
+  "tags_to_include": [
+    "c:lead_blocks"
+  ],
+  "variants": {
+    "parent": "metal",
+    "new": []
+  }
+}

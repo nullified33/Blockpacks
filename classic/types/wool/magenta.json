@@ -1,0 +1,23 @@
+{
+  "name": "wool/magenta",
+  "settings": {
+    "imitate": "minecraft:white_wool"
+  },
+  "items_to_include": [
+    "minecraft:magenta_wool"
+  ],
+  "tags_to_include": [
+    "c:magenta_wool"
+  ],
+  "variants": {
+    "new": [
+      {
+        "names": [
+          "magenta",
+          "magenta-llama"
+        ],
+        "transparent": false
+      }
+    ]
+  }
+}

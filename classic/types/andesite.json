@@ -1,0 +1,17 @@
+{
+  "name": "andesite",
+  "settings": {
+    "imitate": "minecraft:stone"
+  },
+  "items_to_include": [
+    "minecraft:andesite",
+    "minecraft:polished_andesite"
+  ],
+  "tags_to_include": [
+    "c:andesite"
+  ],
+  "variants": {
+    "parent": "stone",
+    "new": []
+  }
+}

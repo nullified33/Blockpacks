@@ -1,0 +1,55 @@
+{
+  "name": "glass_stained/magenta",
+  "settings": {
+    "imitate": "minecraft:glass"
+  },
+  "items_to_include": [
+    "magenta_stained_glass"
+  ],
+  "tags_to_include": [
+    "c:glass_magenta"
+  ],
+  "variants": {
+    "new": [
+      {
+        "names": [
+          "brick",
+          "panel",
+          "rough",
+          "streaks"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "magenta-bubble"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "magenta-forestry"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "magenta-panel"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "magenta-panel-fancy"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "magenta-transparent"
+        ],
+        "transparent": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "name": "glass_stained/black",
+  "settings": {
+    "imitate": "minecraft:glass"
+  },
+  "items_to_include": [
+    "black_stained_glass"
+  ],
+  "tags_to_include": [
+    "c:glass_black"
+  ],
+  "variants": {
+    "new": [
+      {
+        "names": [
+          "brick",
+          "panel",
+          "rough",
+          "streaks"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "black-bubble"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "black-forestry"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "black-panel"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "black-panel-fancy"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "black-transparent"
+        ],
+        "transparent": true
+      }
+    ]
+  }
+}

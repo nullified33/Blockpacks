@@ -1,0 +1,17 @@
+{
+  "name": "granite",
+  "settings": {
+    "imitate": "minecraft:stone"
+  },
+  "items_to_include": [
+    "minecraft:granite",
+    "minecraft:polished_granite"
+  ],
+  "tags_to_include": [
+    "c:granite"
+  ],
+  "variants": {
+    "parent": "stone",
+    "new": []
+  }
+}

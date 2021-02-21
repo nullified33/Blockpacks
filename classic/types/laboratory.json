@@ -1,0 +1,40 @@
+{
+  "name": "laboratory",
+  "settings": {
+    "imitate": "minecraft:iron_block"
+  },
+  "tags_to_include": [
+    "c:laboratory_blocks"
+  ],
+  "variants": {
+    "new": [
+      {
+        "names": [
+          "largewall",
+          "roundel",
+          "largetile",
+          "smalltile",
+          "floortile",
+          "checkertile",
+          "clearscreen",
+          "fuzzscreen",
+          "wallvents",
+          "wallpanel",
+          "infocon"
+        ],
+        "transparent": false
+      },
+      {
+        "names": [
+          "dottedpanel",
+          "directionleft",
+          "directionright",
+          "largesteel",
+          "smallsteel"
+        ],
+        "model": "block/cube_column",
+        "transparent": false
+      }
+    ]
+  }
+}

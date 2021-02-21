@@ -1,0 +1,13 @@
+{
+  "name": "metals/bronze",
+  "settings": {
+    "imitate": "minecraft:iron_block"
+  },
+  "tags_to_include": [
+    "c:bronze_blocks"
+  ],
+  "variants": {
+    "parent": "metal",
+    "new": []
+  }
+}

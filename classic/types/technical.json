@@ -1,0 +1,68 @@
+{
+  "name": "technical",
+  "settings": {
+    "imitate": "minecraft:iron_block"
+  },
+  "chisel_group": "classic/factory",
+  "tags_to_include": [
+    "c:technical_blocks"
+  ],
+  "variants": {
+    "new": [
+      {
+        "names": [
+          "scaffold",
+          "cautiontape",
+          "industrialrelic",
+          "pipeslarge",
+          "pipessmall",
+          "vent",
+          "ventglowing",
+          "insulationv2",
+          "spinningstuffanim",
+          "cables",
+          "rustyboltedplates",
+          "grate",
+          "graterusty",
+          "scaffoldtransparent",
+          "massivefan",
+          "massivehexplating",
+          "weatheredgreenpanels",
+          "weatheredorangepanels",
+          "sturdy",
+          "exhaustplating",
+          "makeshiftpanels",
+          "engineering",
+          "scaffoldlarge",
+          "piping",
+          "tapedrive"
+        ],
+        "transparent": false
+      },
+      {
+        "names": [
+          "megacell"
+        ],
+        "model": "block/cube_bottom_top",
+        "transparent": false
+      },
+      {
+        "names": [
+          "fanfast",
+          "fanstill",
+          "malfunctionfan"
+        ],
+        "model": "block/cube_column",
+        "transparent": false
+      },
+      {
+        "names": [
+          "fanfasttransparent",
+          "fanstilltransparent"
+        ],
+        "model": "block/cube_column",
+        "transparent": true
+      }
+    ]
+  }
+}

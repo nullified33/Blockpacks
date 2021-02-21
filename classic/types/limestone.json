@@ -1,0 +1,20 @@
+{
+  "name": "limestone",
+  "settings": {
+    "imitate": "minecraft:stone"
+  },
+  "tags_to_include": [
+    "c:limestone"
+  ],
+  "variants": {
+    "parent": "stone",
+    "new": [
+      {
+        "names": [
+          "raw"
+        ],
+        "transparent": false
+      }
+    ]
+  }
+}

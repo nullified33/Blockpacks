@@ -1,0 +1,55 @@
+{
+  "name": "glass_stained/pink",
+  "settings": {
+    "imitate": "minecraft:glass"
+  },
+  "items_to_include": [
+    "pink_stained_glass"
+  ],
+  "tags_to_include": [
+    "c:glass_pink"
+  ],
+  "variants": {
+    "new": [
+      {
+        "names": [
+          "brick",
+          "panel",
+          "rough",
+          "streaks"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "pink-bubble"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "pink-forestry"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "pink-panel"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "pink-panel-fancy"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "pink-transparent"
+        ],
+        "transparent": true
+      }
+    ]
+  }
+}

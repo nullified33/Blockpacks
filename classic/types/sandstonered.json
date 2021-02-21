@@ -1,0 +1,19 @@
+{
+  "name": "sandstonered",
+  "settings": {
+    "imitate": "minecraft:stone"
+  },
+  "items_to_include": [
+    "minecraft:red_sandstone",
+    "minecraft:cut_red_sandstone",
+    "minecraft:chiseled_red_sandstone",
+    "minecraft:smooth_red_sandstone"
+  ],
+  "tags_to_include": [
+    "c:red_sandstones"
+  ],
+  "variants": {
+    "parent": "stone",
+    "new": []
+  }
+}

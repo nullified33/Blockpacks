@@ -1,0 +1,48 @@
+{
+  "name": "obsidian",
+  "settings": {
+    "imitate": "minecraft:obsidian"
+  },
+  "items_to_include": [
+    "minecraft:obsidian"
+  ],
+  "tags_to_include": [
+    "c:obsidian"
+  ],
+  "variants": {
+    "new": [
+      {
+        "names": [
+          "panel-shiny",
+          "panel",
+          "chunks",
+          "growth",
+          "crystal",
+          "map-a",
+          "map-b",
+          "panel-light",
+          "blocks",
+          "tiles"
+        ],
+        "transparent": false
+      },
+      {
+        "names": [
+          "crate"
+        ],
+        "model": "block/cube_bottom_top",
+        "transparent": false
+      },
+      {
+        "names": [
+          "greek",
+          "pillar",
+          "pillar-quartz",
+          "chiseled"
+        ],
+        "model": "block/cube_column",
+        "transparent": false
+      }
+    ]
+  }
+}

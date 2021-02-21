@@ -1,0 +1,24 @@
+{
+  "name": "wool_carpet/black",
+  "settings": {
+    "imitate": "minecraft:white_carpet"
+  },
+  "items_to_include": [
+    "minecraft:black_carpet"
+  ],
+  "tags_to_include": [
+    "c:black_carpet"
+  ],
+  "variants": {
+    "new": [
+      {
+        "names": [
+          "black",
+          "black-llama"
+        ],
+        "model": "block/carpet",
+        "transparent": false
+      }
+    ]
+  }
+}

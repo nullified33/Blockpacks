@@ -1,0 +1,18 @@
+{
+  "name": "prismarine",
+  "settings": {
+    "imitate": "minecraft:stone"
+  },
+  "items_to_include": [
+    "minecraft:prismarine",
+    "minecraft:prismarine_bricks",
+    "minecraft:dark_prismarine"
+  ],
+  "tags_to_include": [
+    "c:prismarine"
+  ],
+  "variants": {
+    "parent": "stone",
+    "new": []
+  }
+}

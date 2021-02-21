@@ -1,0 +1,43 @@
+{
+  "name": "metals/gold",
+  "settings": {
+    "imitate": "minecraft:iron_block"
+  },
+  "items_to_include": [
+    "minecraft:gold_block"
+  ],
+  "tags_to_include": [
+    "c:gold_blocks"
+  ],
+  "variants": {
+    "parent": "metal",
+    "new": [
+      {
+        "names": [
+          "goldeye"
+        ],
+        "transparent": false
+      },
+      {
+        "names": [
+          "terrain-gold-simple",
+          "terrain-gold-largeingot",
+          "terrain-gold-smallingot",
+          "terrain-gold-plates",
+          "terrain-gold-brick",
+          "terrain-gold-cart",
+          "terrain-gold-coin-heads",
+          "terrain-gold-coin-tails",
+          "terrain-gold-crate-dark",
+          "terrain-gold-crate-light",
+          "terrain-gold-rivets",
+          "terrain-gold-star",
+          "terrain-gold-space",
+          "terrain-gold-spaceblack"
+        ],
+        "model": "block/cube_bottom_top",
+        "transparent": false
+      }
+    ]
+  }
+}

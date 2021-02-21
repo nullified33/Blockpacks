@@ -1,0 +1,17 @@
+{
+  "name": "diorite",
+  "settings": {
+    "imitate": "minecraft:stone"
+  },
+  "items_to_include": [
+    "minecraft:diorite",
+    "minecraft:polished_diorite"
+  ],
+  "tags_to_include": [
+    "c:diorite"
+  ],
+  "variants": {
+    "parent": "stone",
+    "new": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "dirt",
+  "settings": {
+    "imitate": "minecraft:dirt"
+  },
+  "items_to_include": [
+    "minecraft:dirt",
+    "minecraft:coarse_dirt"
+  ],
+  "tags_to_include": [
+    "c:dirt"
+  ],
+  "variants": {
+    "new": [
+      {
+        "names": [
+          "bricks",
+          "netherbricks",
+          "bricks3",
+          "cobble",
+          "reinforcedcobbledirt",
+          "reinforceddirt",
+          "happy",
+          "bricks2",
+          "bricksdirt2",
+          "chunky",
+          "horizontal",
+          "plate",
+          "layers"
+        ],
+        "transparent": false
+      },
+      {
+        "names": [
+          "hor",
+          "vertical",
+          "vert"
+        ],
+        "model": "block/cube_column",
+        "transparent": false
+      }
+    ]
+  }
+}

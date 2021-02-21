@@ -1,0 +1,49 @@
+{
+  "name": "metals/iron",
+  "settings": {
+    "imitate": "minecraft:iron_block"
+  },
+  "items_to_include": [
+    "minecraft:iron_block"
+  ],
+  "tags_to_include": [
+    "c:iron_blocks"
+  ],
+  "variants": {
+    "parent": "metal",
+    "new": [
+      {
+        "names": [
+          "terrain-iron-space",
+          "terrain-iron-spaceblack"
+        ],
+        "transparent": false
+      },
+      {
+        "names": [
+          "terrain-iron-simple",
+          "terrain-iron-largeingot",
+          "terrain-iron-smallingot",
+          "terrain-iron-plates",
+          "terrain-iron-brick",
+          "terrain-iron-coin-heads",
+          "terrain-iron-coin-tails",
+          "terrain-iron-moon",
+          "terrain-iron-crate-dark",
+          "terrain-iron-crate-light",
+          "terrain-iron-rivets"
+        ],
+        "model": "block/cube_bottom_top",
+        "transparent": false
+      },
+      {
+        "names": [
+          "terrain-iron-vents",
+          "terrain-iron-gears"
+        ],
+        "model": "block/cube_column",
+        "transparent": false
+      }
+    ]
+  }
+}

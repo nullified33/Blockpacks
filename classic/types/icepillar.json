@@ -1,0 +1,53 @@
+{
+  "name": "icepillar",
+  "settings": {
+    "imitate": "minecraft:ice"
+  },
+  "chisel_group": "classic/ice",
+  "tags_to_include": [
+    "c:ice_default"
+  ],
+  "variants": {
+    "remove": [
+      "rough",
+      "wideplain",
+      "simple",
+      "default",
+      "pillar",
+      "widedecor",
+      "convex",
+      "widegreek",
+      "greekdecor",
+      "plaindecor"
+    ],
+    "new": [
+      {
+        "names": [
+          "convex",
+          "default",
+          "greekdecor",
+          "greekgreek",
+          "greekplain",
+          "pillar",
+          "plaindecor",
+          "plaingreek",
+          "plainplain",
+          "rough",
+          "simple",
+          "widedecor",
+          "widegreek",
+          "wideplain"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "carved",
+          "ornamental"
+        ],
+        "model": "block/cube_column",
+        "transparent": true
+      }
+    ]
+  }
+}

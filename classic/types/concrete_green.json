@@ -1,0 +1,16 @@
+{
+  "name": "concrete_green",
+  "settings": {
+    "imitate": "minecraft:stone"
+  },
+  "items_to_include": [
+    "green_concrete"
+  ],
+  "tags_to_include": [
+    "c:concrete_green"
+  ],
+  "variants": {
+    "parent": "stone",
+    "new": []
+  }
+}

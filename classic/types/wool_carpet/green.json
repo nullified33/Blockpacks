@@ -1,0 +1,24 @@
+{
+  "name": "wool_carpet/green",
+  "settings": {
+    "imitate": "minecraft:white_carpet"
+  },
+  "items_to_include": [
+    "minecraft:green_carpet"
+  ],
+  "tags_to_include": [
+    "c:green_carpet"
+  ],
+  "variants": {
+    "new": [
+      {
+        "names": [
+          "green",
+          "green-llama"
+        ],
+        "model": "block/carpet",
+        "transparent": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "metals/aluminium",
+  "settings": {
+    "imitate": "minecraft:iron_block"
+  },
+  "tags_to_include": [
+    "c:aluminium_blocks"
+  ],
+  "variants": {
+    "parent": "metal",
+    "new": []
+  }
+}

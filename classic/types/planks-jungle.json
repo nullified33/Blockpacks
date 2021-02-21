@@ -1,0 +1,16 @@
+{
+  "name": "planks-jungle",
+  "settings": {
+    "imitate": "minecraft:oak_planks"
+  },
+  "items_to_include": [
+    "minecraft:jungle_planks"
+  ],
+  "tags_to_include": [
+    "c:jungle_planks"
+  ],
+  "variants": {
+    "parent": "planks",
+    "new": []
+  }
+}

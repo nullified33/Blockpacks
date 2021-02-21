@@ -1,0 +1,42 @@
+{
+  "name": "factory",
+  "settings": {
+    "imitate": "minecraft:iron_block"
+  },
+  "variants": {
+    "new": [
+      {
+        "names": [
+          "rust2",
+          "dots",
+          "rust",
+          "platex",
+          "wireframewhite",
+          "wireframe",
+          "hazard",
+          "hazardorange",
+          "circuit",
+          "goldplate",
+          "goldplating",
+          "grinder",
+          "plating",
+          "rustplates",
+          "frameblue",
+          "iceiceice",
+          "tilemosaic",
+          "wireframeblue",
+          "column",
+          "vent"
+        ],
+        "transparent": false
+      },
+      {
+        "names": [
+          "metalbox"
+        ],
+        "model": "block/cube_column",
+        "transparent": false
+      }
+    ]
+  }
+}

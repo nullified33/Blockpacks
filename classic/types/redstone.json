@@ -1,0 +1,56 @@
+{
+  "name": "redstone",
+  "settings": {
+    "imitate": "minecraft:redstone_block"
+  },
+  "items_to_include": [
+    "minecraft:redstone_block"
+  ],
+  "tags_to_include": [
+    "c:redstone_blocks"
+  ],
+  "variants": {
+    "remove": [
+      "weaver",
+      "zag",
+      "bricks-chaotic",
+      "cuts"
+    ],
+    "new": [
+      {
+        "names": [
+          "cracked",
+          "bricks-soft",
+          "bricks-cracked",
+          "bricks-encased",
+          "braid",
+          "array",
+          "tiles-large",
+          "tiles-small",
+          "chaotic-medium",
+          "chaotic-small",
+          "dent",
+          "french-1",
+          "french-2",
+          "jellybean",
+          "layers",
+          "mosaic",
+          "ornate",
+          "panel",
+          "road",
+          "slanted",
+          "weaver",
+          "bricks-solid",
+          "bricks-small",
+          "circular",
+          "tiles-medium",
+          "prism",
+          "bricks-chaotic",
+          "cuts",
+          "bricks-triple"
+        ],
+        "transparent": false
+      }
+    ]
+  }
+}

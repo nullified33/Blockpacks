@@ -1,0 +1,23 @@
+{
+  "name": "wool/green",
+  "settings": {
+    "imitate": "minecraft:white_wool"
+  },
+  "items_to_include": [
+    "minecraft:green_wool"
+  ],
+  "tags_to_include": [
+    "c:green_wool"
+  ],
+  "variants": {
+    "new": [
+      {
+        "names": [
+          "green",
+          "green-llama"
+        ],
+        "transparent": false
+      }
+    ]
+  }
+}

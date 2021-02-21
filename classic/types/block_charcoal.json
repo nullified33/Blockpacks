@@ -1,0 +1,16 @@
+{
+  "name": "block_charcoal",
+  "settings": {
+    "imitate": "minecraft:stone"
+  },
+  "items_to_include": [
+    "minecraft:charcoal_block"
+  ],
+  "tags_to_include": [
+    "c:charcoal_blocks"
+  ],
+  "variants": {
+    "parent": "stone",
+    "new": []
+  }
+}

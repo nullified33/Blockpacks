@@ -1,0 +1,16 @@
+{
+  "name": "planks-spruce",
+  "settings": {
+    "imitate": "minecraft:oak_planks"
+  },
+  "items_to_include": [
+    "minecraft:spruce_planks"
+  ],
+  "tags_to_include": [
+    "c:spruce_planks"
+  ],
+  "variants": {
+    "parent": "planks",
+    "new": []
+  }
+}

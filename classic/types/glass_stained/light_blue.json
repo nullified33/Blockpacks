@@ -1,0 +1,55 @@
+{
+  "name": "glass_stained/light_blue",
+  "settings": {
+    "imitate": "minecraft:glass"
+  },
+  "items_to_include": [
+    "light_blue_stained_glass"
+  ],
+  "tags_to_include": [
+    "c:glass_light_blue"
+  ],
+  "variants": {
+    "new": [
+      {
+        "names": [
+          "brick",
+          "panel",
+          "rough",
+          "streaks"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "light_blue-bubble"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "light_blue-forestry"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "light_blue-panel"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "light_blue-panel-fancy"
+        ],
+        "transparent": true
+      },
+      {
+        "names": [
+          "light_blue-transparent"
+        ],
+        "transparent": true
+      }
+    ]
+  }
+}

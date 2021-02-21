@@ -1,0 +1,24 @@
+{
+  "name": "wool_carpet/white",
+  "settings": {
+    "imitate": "minecraft:white_carpet"
+  },
+  "items_to_include": [
+    "minecraft:white_carpet"
+  ],
+  "tags_to_include": [
+    "c:white_carpet"
+  ],
+  "variants": {
+    "new": [
+      {
+        "names": [
+          "white",
+          "white-llama"
+        ],
+        "model": "block/carpet",
+        "transparent": false
+      }
+    ]
+  }
+}

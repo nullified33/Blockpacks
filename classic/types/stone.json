@@ -1,0 +1,29 @@
+{
+  "name": "stone",
+  "settings": {
+    "imitate": "minecraft:stone"
+  },
+  "items_to_include": [
+    "minecraft:stone",
+    "minecraft:smooth_stone",
+    "minecraft:stone_bricks",
+    "minecraft:cracked_stone_bricks",
+    "minecraft:chiseled_stone_bricks"
+  ],
+  "tags_to_include": [
+    "c:grey_stones"
+  ],
+  "variants": {
+    "parent": "stone",
+    "new": [
+      {
+        "names": [
+          "largeornate",
+          "poison",
+          "sunken"
+        ],
+        "transparent": false
+      }
+    ]
+  }
+}
