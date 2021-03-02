@@ -8,7 +8,7 @@ Github repo for Chisel Decor blockpacks.
 
 ## How to install
 1. Run Minecraft with [Chisel Decor]() installed to generate the necessary config folders and files.
-2. Download the ZIP file for the desired blockpack.
+2. Download the ZIP file for the desired blockpack and extract ZIP.
 3. Place the blockpack folder in the `config/chiseldecor` directory.
 4. Edit the `config/chiseldecor/config.json` file. The entry `block_packs` should be a comma separated list of the names of the  blockpacks you want to load. A list should look like "cool, red".
 5. Open Minecraft. Your blockpack(s) should have been loaded!
