@@ -1,0 +1,8 @@
+{
+    "world_gen": [
+        {
+            "type": "ore",
+            "block": "chiseldecor:uport/stone/copper_ore"   
+        }
+    ]
+}
