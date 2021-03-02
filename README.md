@@ -50,7 +50,7 @@ and any textures contained in the directories
 
 with names which include the word `llama`, are created by Drullkus and are licenced under [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-And
 * `alphablocks\textures\wool`
 * were made by  Notch Markus Perrson
 * and are under an unknown licence.
+
