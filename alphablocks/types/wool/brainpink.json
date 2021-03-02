@@ -1,0 +1,23 @@
+{
+  "name": "wool/brainpink",
+  "settings": {
+    "imitate": "minecraft:white_wool"
+  },
+  "items_to_include": [
+    "minecraft:pink_wool"
+  ],
+  "tags_to_include": [
+    "c:pink_wool"
+  ],
+  "variants": {
+    "new": [
+      {
+        "names": [
+          "hotpink",
+          "brainpink"
+        ],
+        "transparent": false
+      }
+    ]
+  }
+}

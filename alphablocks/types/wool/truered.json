@@ -1,0 +1,22 @@
+{
+  "name": "wool/truered",
+  "settings": {
+    "imitate": "minecraft:white_wool"
+  },
+  "items_to_include": [
+    "minecraft:red_wool"
+  ],
+  "tags_to_include": [
+    "c:red_wool"
+  ],
+  "variants": {
+    "new": [
+      {
+        "names": [
+          "truered"
+        ],
+        "transparent": false
+      }
+    ]
+  }
+}
