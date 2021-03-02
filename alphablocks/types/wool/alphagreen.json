@@ -1,19 +1,20 @@
 {
-  "name": "wool/lightdarkgray",
+  "name": "wool/alphagreen",
   "settings": {
     "imitate": "minecraft:white_wool"
   },
   "items_to_include": [
-    "minecraft:gray_wool"
+    "minecraft:green_wool"
   ],
   "tags_to_include": [
-    "c:gray_wool"
+    "c:green_wool"
   ],
   "variants": {
     "new": [
       {
         "names": [
-          "lightdarkgray"
+          "yellowgreen",
+          "alphagreen"
         ],
         "transparent": false
       }
