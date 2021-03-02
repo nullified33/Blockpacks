@@ -41,7 +41,8 @@ The images in the directories
 * ` classic\textures\blocks\default\redstone`
 * ` classic\textures\blocks\default\sandstonered`
 * ` classic\textures\blocks\default\sandstoneyellow`
-* ` classic\textures\blocks\default\stone`
+* ` classic\textures\blocks\default\stone` 
+* `alphablocks\textures\wool`
 
 and any textures contained in the directories
 
