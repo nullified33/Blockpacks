@@ -42,7 +42,7 @@ The images in the directories
 * ` classic\textures\blocks\default\sandstonered`
 * ` classic\textures\blocks\default\sandstoneyellow`
 * ` classic\textures\blocks\default\stone` 
-* `alphablocks\textures\wool`
+
 
 and any textures contained in the directories
 
@@ -50,3 +50,8 @@ and any textures contained in the directories
 * ` classic\textures\blocks\default\wool_carpet`
 
 with names which include the word `llama`, are created by Drullkus and are licenced under [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+And
+* `alphablocks\textures\wool`
+* were made by  Notch Markus Perrson
+* and are under an unknown licence.
