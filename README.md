@@ -5,6 +5,7 @@ Github repo for Chisel Decor blockpacks.
 
 * [Classic](https://github.com/KnowYourKnot/Blockpacks/releases/download/v1.0.0/classic.zip)
 * [Alpha Blocks](https://github.com/3prm3/Blockpacks/releases/download/ab1.0.0/alphablocks.zip)
+* [Uport](https://github.com/3prm3/Blockpacks/releases/download/up1.0/uport.zip)
 
 ## How to install
 1. Run Minecraft with [Chisel Decor](https://github.com/KnowYourKnot/ChiselDecor/releases) installed to generate the necessary config folders and files.
@@ -54,5 +55,11 @@ with names which include the word `llama`, are created by Drullkus and are licen
 
 * `alphablocks\textures\wool`
 were made by  "Notch" Markus Perrson and are under an unknown licence.
+
+* `uport\textures\stone`
+* `uport\textures\glass`
+were made by  "Jappa" Jasper Bostera and are under an unknown licence.
+
+
 
 
