@@ -4,7 +4,7 @@ Github repo for Chisel Decor blockpacks.
 ## Blockpack Download Links
 
 * [Classic](https://github.com/KnowYourKnot/Blockpacks/releases/download/v1.0.0/classic.zip)
-* [Alpha Blocks](https://github.com/3prm3/Blockpacks/releases/download/ab1.0.0/alphablocks.zip)
+* [Alpha Blocks/ Alpha Wool](https://github.com/3prm3/Blockpacks/releases/download/ab1.0.0/alphablocks.zip)
 * [Uport](https://github.com/3prm3/Blockpacks/releases/download/up1.0/uport.zip)
 
 ## How to install
