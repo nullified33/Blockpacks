@@ -6,7 +6,7 @@ Github repo for Chisel Decor blockpacks.
 * [Classic](https://github.com/KnowYourKnot/Blockpacks/releases/download/v1.0.0/classic.zip)
 * [Alpha Blocks/ Alpha Wool](https://github.com/3prm3/Blockpacks/releases/download/ab1.0.0/alphablocks.zip)
 * [Uport](https://github.com/3prm3/Blockpacks/releases/download/up1.0/uport.zip)
-
+[Unused Blocks](https://github.com/3prm3/Blockpacks/releases/download/v.1.0.0/unused.zip)
 ## How to install
 1. Run Minecraft with [Chisel Decor](https://github.com/KnowYourKnot/ChiselDecor/releases) installed to generate the necessary config folders and files.
 2. Download the ZIP file for the desired blockpack and extract.
