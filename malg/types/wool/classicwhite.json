@@ -1,0 +1,23 @@
+{
+  "name": "wool/classicwhite",
+  "settings": {
+    "imitate": "minecraft:white_wool"
+  },
+  "items_to_include": [
+    "minecraft:white_wool"
+  ],
+  "tags_to_include": [
+    "c:white_wool"
+  ],
+  "variants": {
+    "new": [
+      {
+        "names": [
+          "classicwhite",
+          "fluff"
+        ],
+        "transparent": false
+      }
+    ]
+  }
+}

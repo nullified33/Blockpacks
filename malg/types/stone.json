@@ -1,0 +1,54 @@
+{
+  "name": "stone",
+  "settings": {
+    "imitate": "minecraft:stone"
+  },
+  "items_to_include": [
+    "minecraft:stone"
+  ],
+  "tags_to_include": [
+    "c:stone"
+  ],
+  "variants": {
+    "new": [
+      {
+        "names": [
+          "amethyst_block",
+          "budding_amethyst",
+		  "chiseled_deepslate",
+		  "cobbled_deepslate",
+		  "copper_block",
+		  "copper_ore",
+		  "cut_copper",
+		  "deepslate",
+		  "deepslate_bricks",
+		  "deepslate_diamond_ore",
+		  "deepslate_gold_ore",
+		  "deepslate_iron_ore",
+		  "deepslate_lapis_ore",
+		  "deepslate_redstone_ore",
+		  "deepslate_tiles",
+		  "deepslate_top",
+		  "exposed_copper",
+		  "exposed_cut_copper",
+		  "oxidized_copper",
+		  "oxidized_cut_copper",
+		  "polished_deepslate",
+		  "smooth_basalt",
+		  "weathered_copper",
+		  "weathered_cut_copper",
+		  "wax",
+		  "grimstone",
+		  "blackgranite",
+		  "blackpolished_granite",
+		  "tuff",
+		  "calcite",
+		  "dripstone_block",
+		  "whitepumice",
+		  "blackpumice"
+        ],
+        "transparent": false
+      }
+    ]
+  }
+}

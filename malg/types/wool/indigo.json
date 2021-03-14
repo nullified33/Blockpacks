@@ -1,0 +1,22 @@
+{
+  "name": "wool/indigo",
+  "settings": {
+    "imitate": "minecraft:white_wool"
+  },
+  "items_to_include": [
+    "minecraft:purple_wool"
+  ],
+  "tags_to_include": [
+    "c:purple_wool"
+  ],
+  "variants": {
+    "new": [
+      {
+        "names": [
+          "indigo"
+        ],
+        "transparent": false
+      }
+    ]
+  }
+}
