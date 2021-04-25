@@ -62,6 +62,8 @@ were made by  "Notch" Markus Perrson and are under an unknown licence.
 * `uport\textures\glass`
 were made by  "Jappa" Jasper Boerstra and are under an unknown licence.
 
+Classic blockpack is partially all rights reserved
+
 
 
 
