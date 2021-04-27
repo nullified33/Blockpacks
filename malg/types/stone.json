@@ -45,7 +45,22 @@
 		  "calcite",
 		  "dripstone_block",
 		  "whitepumice",
-		  "blackpumice"
+		  "blackpumice",
+		  "rooted_dirt",
+		  "raw_iron_block",
+		  "raw_gold_block",
+		  "raw_copper_block",
+		  "nredstone_ore",
+		  "nlapis_ore",
+		  "niron_ore",
+		  "ngold_ore",
+		  "nemerald_ore",
+		  "ndiamond_ore",
+		  "ncoal_ore",
+		  "deepslate_emerald_ore",
+		  "deepslate_copper_ore",
+		  "deepslate_coal_ore",
+		  "cracked_deepslate_bricks"
         ],
         "transparent": false
       }
