@@ -15,7 +15,7 @@
         "names": [
           "azalea_leaves"
         ],
-        "transparent": false
+        "transparent": true
       }
     ]
   }
