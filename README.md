@@ -1,6 +1,7 @@
 ![](https://user-images.githubusercontent.com/70713233/118901098-52145900-b8c7-11eb-9421-e1a08539d50b.png)
 ## Blockpack Download Links
-
+ 
+This repo is outdated, go to https://github.com/3prm3-Org/Blockpacks 
 
 * [Alpha Blocks/ Alpha Wool](https://github.com/3prm3/Blockpacks/releases/download/ab1.0.0/alphablocks.zip)
 * [Uport](https://github.com/3prm3/Blockpacks/releases/download/up1.0/uport.zip)
