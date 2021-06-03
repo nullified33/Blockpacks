@@ -1,7 +1,4 @@
 ![](https://user-images.githubusercontent.com/70713233/118901098-52145900-b8c7-11eb-9421-e1a08539d50b.png)
-# Blockpacks
-Github repo for Chisel Decor blockpacks.
-
 ## Blockpack Download Links
 
 
